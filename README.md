@@ -14,7 +14,7 @@ Desenvolver uma aplicação para monitorar o Top Trending e seu volume na rede s
 ### ***Solução para o projeto***
 
 Como solucão do cenário apresentado, foi criado um script que conecta no Twitter e realiza a busca das ultimas Top Trending do Brasil, armazenando estas
-informacões em um banco de dados MongoDB para que a lógica do script realize a busca de notícias 
+informacões em um banco de dados MongoDB para que a lógica do script realize a busca de palavras com maior destaque em formato de um grafico. 
 
 
 
